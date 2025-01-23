@@ -1,0 +1,20 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 51.498847863, 21.784196769 ]
+    },
+    "timestamp" : null,
+    "properties" : {
+      "tool" : "POINT",
+      "type" : "POINT",
+      "fillColor" : "#00d1fa80",
+      "iconColor" : "#ffffff",
+      "pointSize" : 5,
+      "strokeColor" : "#00d1fa",
+      "strokeWidth" : 1
+    }
+  } ]
+}
